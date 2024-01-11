@@ -1,1 +1,1 @@
-git init"# Lista" 
+"# Lista" 
